@@ -1,2 +1,6 @@
 this is edited file aa.txt aa.txt is being renamed
-////////handling multiple commits/////////////
+HEAD
+handling multiple commits
+
+handling multiple commits
+93fdc06b51a85157bd499ae5f0ceaa8cd157f4d9
